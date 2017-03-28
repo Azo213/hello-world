@@ -1,2 +1,4 @@
 # hello-world
-that's my first project on GitHub....i hope it will be enjoyable 
+hey guys !
+azzouz here....
+i'm a complete novice in this field...and i'm trying my best to become better
